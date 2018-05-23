@@ -1,7 +1,7 @@
 # DreamGraph
 <em>The Python module for Telegraph API.</em>
 <h1>Examples</h1>
-You can easily download this module via pip install dreamgraph
+<p>You can easily download this module via pip install dreamgraph</p>
 <h2>Your account</h2>
 <h3>1. If you have an existing account, use <code>LogIn</code> method.</h3>
 <br>
